@@ -19,6 +19,8 @@
 ·         Players need to enter their score after every ball
 <br>
 <img src="https://github.com/munagurung/ProjectImages/blob/master/bowling/gameenter.PNG"/>
+<br>
+<br>
 ·         The scoreboard needs to be shown in the console.
 <br>
 <br>
