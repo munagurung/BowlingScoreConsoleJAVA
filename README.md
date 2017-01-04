@@ -13,7 +13,7 @@
 <img src="https://github.com/munagurung/ProjectImages/blob/master/bowling/newgamemenu.PNG"/>
 <br>
 <br>
-·         Game runs for 10 frames and scores according to rules of play above). Option to end game early.
+·         Game runs for 10 frames and scores according to rules of play above. Option to end game early.
 <br>
 <br>
 ·         Players need to enter their score after every ball
